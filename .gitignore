@@ -1,0 +1,4 @@
+config.sh
+.tmp
+tmp*
+work

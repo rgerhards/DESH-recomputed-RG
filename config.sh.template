@@ -1,0 +1,5 @@
+export TEMPDIR=
+export WORKDIR=
+export PANGOLIN_THREADS=1
+export RKI_REPO=
+export MY_REPO=
